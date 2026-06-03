@@ -1,0 +1,5 @@
+PS D:\Likhitha\project\azure-ai-102-labs\azure-speech> python .\speech.py
+Ready to use speech service in: australiaeast
+Speak now...
+What day is today?
+Today is Friday

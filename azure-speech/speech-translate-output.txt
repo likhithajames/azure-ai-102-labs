@@ -1,0 +1,4 @@
+PS D:\Likhitha\project\azure-ai-102-labs\azure-speech> python .\speech-translate.py
+Speak now...
+Translating Hello I am fine. to malayalam
+ഹലോ എനിക്ക് കുഴപ്പമൊന്നുമില്ല.
