@@ -1,0 +1,6 @@
+(.venv) PS D:\Likhitha\project\azure-ai-102-labs\azure-language> python .\extract-entities.py
+Enter 1 for input string and 2 for input file from sample.txt: 1
+Enter the string to be extracted:Kerala is a state in India
+Name: Kerala Category: Location Confidence Score: 0.97
+Name: India Category: Location Confidence Score: 0.99
+(.venv) PS D:\Likhitha\project\azure-ai-102-labs\azure-language> 

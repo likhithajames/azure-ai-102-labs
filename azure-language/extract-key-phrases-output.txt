@@ -1,0 +1,4 @@
+(.venv) PS D:\Likhitha\project\azure-ai-102-labs\azure-language> python .\extract-key-phrases.py
+Enter the string to be extracted:I live in sydney
+Key Phrases: sydney
+(.venv) PS D:\Likhitha\project\azure-ai-102-labs\azure-language>

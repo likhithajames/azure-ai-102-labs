@@ -1,0 +1,5 @@
+(.venv) PS D:\Likhitha\project\azure-ai-102-labs\azure-language> python detect-language.py
+
+Enter the string to be converted:Hello
+Language: English Confidence Score: 1.0
+(.venv) PS D:\Likhitha\project\azure-ai-102-labs\azure-language>

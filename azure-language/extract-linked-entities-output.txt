@@ -1,0 +1,4 @@
+(.venv) PS D:\Likhitha\project\azure-ai-102-labs\azure-language> python .\extract-linked-entities.py
+Enter the string to be converted:Sydney
+Name: Sydney URL: https://en.wikipedia.org/wiki/Sydney Data Source: Wikipedia
+(.venv) PS D:\Likhitha\project\azure-ai-102-labs\azure-language>
