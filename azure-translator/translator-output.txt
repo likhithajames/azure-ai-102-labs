@@ -1,0 +1,3 @@
+PS D:\Likhitha\project\azure-ai-102-labs\azure-translator> python .\translator.py
+Translated Text: സുഖമല്ലേ? Language: ml
+Translated Text: तुम कैसे हो? Language: hi
