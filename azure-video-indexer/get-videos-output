@@ -1,0 +1,43 @@
+(.venv) PS D:\Likhitha\project\azure-ai-102-labs\azure-video-indexer> .\get-videos.ps1
+{
+    "results":  [
+                    {
+                        "accountId":  "d8dbaba1-067b-48ba-a8b7-d53ba2ebc623",
+                        "id":  "3cqssap5ix",
+                        "partition":  null,
+                        "externalId":  null,
+                        "metadata":  null,
+                        "name":  "Jochim+ Likhitha Wedding Highlight",
+                        "description":  null,
+                        "created":  "2026-06-02T06:29:48.14+00:00",
+                        "lastModified":  "2026-06-02T06:38:10.0466667+00:00",
+                        "lastIndexed":  "2026-06-02T06:38:10.0466667+00:00",
+                        "privacyMode":  "Private",
+                        "userName":  "Likhitha Eugene James Palackatharappil",
+                        "isOwned":  true,
+                        "isBase":  true,
+                        "hasSourceVideoFile":  true,
+                        "state":  "Processed",
+                        "moderationState":  "OK",
+                        "reviewState":  "None",
+                        "isSearchable":  true,
+                        "processingProgress":  "100%",
+                        "durationInSeconds":  348,
+                        "thumbnailVideoId":  "3cqssap5ix",
+                        "thumbnailId":  "3119eb09-6be3-48da-bfd8-b546225d5abe",
+                        "searchMatches":  "",
+                        "indexingPreset":  "Default",
+                        "streamingPreset":  "SingleBitrate",
+                        "sourceLanguage":  "en-US",
+                        "sourceLanguages":  "en-US",
+                        "personModelId":  "00000000-0000-0000-0000-000000000000"
+                    }
+                ],
+    "nextPage":  {
+                     "pageSize":  25,
+                     "skip":  0,
+                     "done":  true,
+                     "totalCount":  1
+                 }
+}
+(.venv) PS D:\Likhitha\project\azure-ai-102-labs\azure-video-indexer> 
